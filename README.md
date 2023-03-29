@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/a-basanth-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/a-basanth-reddy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/<https://codeforces.com/profile/21h55a6201>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="<https://codeforces.com/profile/21h55a6201>" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/a-basanth-reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/a-basanth-reddy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/<https://codeforces.com/profile/21h55a6201>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="<21h55a6201>\\" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/basanth_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="basanth_reddy" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<angeribasanthreddy>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<angeribasanthreddy>" height="30" width="40" /></a>
 </p>
