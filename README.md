@@ -7,13 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?userna    git gitme=basanthreddya&label=Profile%20views&color=0e75b6&style=flat" alt="basanthreddya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+< align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **Java Full Stack**
 
 - 💬 Ask me about **Spring Boot,Api.**
 
-- 📫 How to reach me **angeribasanthreddy@gmail.com**
+- 📫 How to reach me **basanth260@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
