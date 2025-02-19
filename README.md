@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm A Basanth Reddy</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" <src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?userna    git gitme=basanthreddya&label=Profile%20views&color=0e75b6&style=flat" alt="basanthreddya" /> </p>
