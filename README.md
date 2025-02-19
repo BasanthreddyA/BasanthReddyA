@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 <h1 align="center">Hi 👋, I'm A Basanth Reddy</h1>
-<h3 align="center">A passionate full-stack developer from India.</h3>
+<h3 align="center">A passionate JavaScript Full-stack developer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?userna    git gitme=basanthreddya&label=Profile%20views&color=0e75b6&style=flat" alt="basanthreddya" /> </p>
+
 
 < align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **Spring Boot,Api.**
+- 💬 Ask me about **JavaScript Full Stack.**
 
 - 📫 How to reach me **basanth260@gmail.com**
 
